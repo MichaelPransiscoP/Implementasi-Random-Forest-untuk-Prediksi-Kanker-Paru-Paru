@@ -41,6 +41,28 @@ project/
 ├── dataset/
 │   └── cancer_patient_data.csv
 ├── visualization/
+│   └── accuracy_comparison_All_Features.png
+│   └── accuracy_comparison_No_Top_5.png
+│   └── accuracy_comparison_RFE.png
+│   └── accuracy_comparison_RFECV.png
+│   └── accuracy_comparison_combined.png
+│   └── correlation_matrix_All_Features.png
+│   └── correlation_matrix_RFECV_Selected.png
+│   └── cv_accuracy_folds_All_Features.png
+│   └── cv_accuracy_folds_No_Top_5.png
+│   └── cv_accuracy_folds_RFE.png
+│   └── cv_accuracy_folds_RFECV.png
+│   └── cv_score_distribution_All_Features.png
+│   └── cv_score_distribution_No_Top_5.png
+│   └── cv_score_distribution_RFE.png
+│   └── cv_score_distribution_RFECV.png
+│   └── feature_importance_All_Features.png
+│   └── feature_importance_No_Top_5.png
+│   └── feature_importance_RFE.png
+│   └── feature_importance_RFECV.png
+│   └── hyperparameter_ranking_heatmap.png
+│   └── rfecv_accuracy_curve.png
+│   └── rfecv_fold_results.csv
 ├── main.py
 └── README.md
 ```
